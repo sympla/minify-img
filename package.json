@@ -1,0 +1,23 @@
+{
+  "name": "minify-img",
+  "version": "1.0.0",
+  "description": "helping to minify images",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauroqj/minify-img.git"
+  },
+  "author": "Glauro Q. Juliani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glauroqj/minify-img/issues"
+  },
+  "homepage": "https://github.com/glauroqj/minify-img#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.4.0"
+  }
+}
